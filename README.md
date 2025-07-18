@@ -41,3 +41,10 @@ Install dependencies from `requirements.txt`:
 
 ```bash
 pip install -r requirements.txt
+
+# Student Performance Predictor
+
+A Streamlit app to predict student performance.
+
+🌐 **Deployed app:** [https://student-performance-predictor-2059.streamlit.app/](https://student-performance-predictor-2059.streamlit.app/)
+
